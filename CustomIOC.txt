@@ -222,3 +222,4 @@
 apple-online.shop
 *.831iunk.com
 *.scharb9.com
+*.gomomenfus.com
